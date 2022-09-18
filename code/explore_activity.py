@@ -9,7 +9,7 @@ import time, csv
 #adb = "adb -s %s"%(run_rpk_explore_apk.emulator)
 #folder_name = run.folder_name
 #tmp_dir = run_rpk_explore_apk.tmp_file
-
+#test
 adb = ''
 tmp_dir = ''
 act_paras_file = ''
